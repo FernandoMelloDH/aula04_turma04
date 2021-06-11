@@ -1,0 +1,19 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+
+	Tudo começou quando houve um rompimento da relação entre a comunidade que desenvolvia o Kernel do Linux e a BitKeeper. 
+	Bitkeeper é um sistema de controle de versão distribuído lançado sobre a licença Apache 2.0, e é um software proprietário.
+	Nesse rompimento houve também a invalidação do insento de pagamento da ferramenta e o BitKeeper passou a ser uma ferramanta
+	paga para Linus e sua turma.
+	A revogação do inseto de pagamento e o rompimento da relação com a BitKeeper, levou Linus Torvalds a desenvolver seu próprio 
+	controle de versão, baseado nas experiências de uso da BetKeeper, visando obter uma melhor performance dentre todos os sistemas 
+	de controle de versão da época.
+	Então, em 2005 surge o controle de versão mais utilizando no mundo atualmente, o Git. O significado de Git segundo o próprio 
+	Linus, é uma gíria britânica para cabeça dura.
+
+Quem atualmente é o dono do Github e por quê?
+	Buscando reforçar a sua percepção de parceira de projetos de tecnologia aberta, a Microsoft finalizou os termos de aquisição da 
+	plataforma de repositórios open source online GitHub. A ideia da empresa é, a exemplo do que fez quando comprou o Skype e o 
+	LinkedIn, abraçar as marcas sob seu guarda-chuva de propriedades, mas mantendo cada uma delas operando de maneira independente.
+
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+	Sim, podemos trabalhar com o próprio site do Github, além de termos também o Github Desktop e dentro de IDE's como o Vscode.
