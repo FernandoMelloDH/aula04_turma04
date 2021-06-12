@@ -1,0 +1,7 @@
+O git foi desenvolvido por ninguém menos que Linus Torvalds, o também criador do Linux. Ele foi criado inicialmente para o desenvolvimento do kernel Linux, mas acabou sendo usado em outros projetos.
+
+Atualmente o responsável pela manutenção do software é Junio Hamano. Em 2018 a
+Microsoft comprou o GitHub por 7.5 bilhões de dólares. Acredita-se que a Microsoft tenha decido construir as tão desejadas e necessárias pontes entre as diferentes plataformas. Entende-se que a aquisição do GitHub foi a maneira da Microsoft por na prática o discurso de melhoria de relacionamentos com desenvolvedores fora do Windows.
+
+
+É possível gerenciar os reposítorios, arquivos, commits, times e outros aspectos pela plataforma Web. O site do GitHub é repleto de funcionalidades e oferece uma alternativa para o manuseio das ativadades relacionadas à ele. Já me foi dito que controle de versão "no dedo" é perda de tempo, que ao aprender e dominar o uso do terminal, ele é a ferramenta mais ágil e responsiva.
