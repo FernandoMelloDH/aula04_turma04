@@ -1,0 +1,5 @@
+1 - Linus Torvads, ele estava insatisfeito com outros VCS.
+
+2 - Microsoft comprou o github em 2018.
+
+3 - Sim pode também se utilizar qualquer outra IDE que possibilite o uso exemplo Eclipse e VsCode.
