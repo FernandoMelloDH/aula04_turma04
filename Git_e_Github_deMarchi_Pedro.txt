@@ -1,0 +1,17 @@
+1 - Quem inventou o sistema de controle de versão Git e por quê?
+	Linus Torvald queria uma alternativa ao sistema de controle de versões de época,
+	que além de ineficiente, não era de livre acesso. Então criou o Git, ferramente
+	open source de controle de versões.
+
+
+2 - Quem atualmente é o dono do Github e por quê?
+	A Microsoft comprou o Github em 2018. A GitHub estava em queda e tendo prejuízos,
+	portanto precisava de recursos para investimentos, o que na prática significa ser comprado
+	ou abrir capital. A Microsoft era a companhia privada que mais colaborava com o GitHub
+	e há interesse da empresa de desfazer a imagem negativa frente aos desenvolvedores open source.
+	A mudança é positiva para o GitHub, o investimento da Microsoft vai permitir expansão e melhorias
+	nos serviços.
+
+
+3 - Existe outra maneira, além do terminal, de trabalhar com o Github?
+	Existe uma versão gráfica para desktop, aplicativo deveras interessate.
