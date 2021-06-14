@@ -22,3 +22,5 @@ Existe uma versão gráfica para desktop, aplicativo deveras interessate.
 ░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░░
 ░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█░░░░░
 ░░████████████░░░█████████████████░░░░░░
+
+alteração teste antes do pull
