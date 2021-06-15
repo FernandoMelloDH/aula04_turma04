@@ -1,0 +1,16 @@
+1.Quem inventou o sistema de controle de versão Git e por quê?
+
+Linus Torvalds foi o criador do Git. A razão da criação foi pela falta de sistemas de controle de versão que atendesse todos os requisitos que ele julgava necessário estar presente em um sistema de controle de versão.
+
+
+2.Quem atualmente é o dono do Github e por quê?
+
+O atual CEO do Github é o Nat Friedman, e ele se tornou CEO depois da Microsoft comprar a empresa por 7.5 bilhões de dólares em junho de 2018. O co-fundador do Github estava a procura de um substituto para o seu cargo desde agosto de 2017
+
+
+
+
+3.Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+
+É possível utilizar a própria IDE (Ex: VS Code), o programa desktop do Github e a própria plataforma web. Nessas três maneiras é possível adicionar arquivos, fazer commits e pushs assim como no terminal.
