@@ -1,0 +1,15 @@
+Exercício - Mochila do viajante
+
+1 - Quem inventou o sistema de controle de versão Git e por quê?
+R: O Git foi inicalmente projetado e desenvolvido por Linus Torvalds, nascido na Finlândia em 28 de dezembro de 1965 e naturalizado Esado-Unidense em 2010,  para o desenvolvimento do "Kernel Linux".
+
+Git é um sistema de controle de versões. Ele registra o histórico de edições do arquivo.
+
+Kernel Linux é um núcleo monolítico de código aberto para sistemas operacionais tipo UNIX.
+
+2 - Quem atualmente é o dono do Github e por quê?
+R: No dia 04 junho de 2018, a Microsoft anunciou a compra do GitHub, alegando fortalecer o compromisso da empresa coma liberdade, abertura e inovação dos desenvolvedores.
+Mas antes disso... O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon em fevereiro de 2008.
+
+3 - Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: Sim
