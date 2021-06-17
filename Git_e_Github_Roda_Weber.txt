@@ -4,7 +4,7 @@ Foi criado por Linus Torvalds em 2005 e foi decorrente de insatisfação com uma
 Assim ele criou a sua própria versão de um sistema para controlar as alterações do projeto Linux.
 
 2- Quem atualmente é o dono do Github e por quê?
-Atualmente a Microsoft é dona do Github e faz parte de estratégia da empresa para atrair programadores de código aberto
+Atualmente a Microsoft é dona do Github e faz parte da estratégia da empresa para atrair programadores de código aberto
 
 3-Existe outra maneira, além do terminal, de trabalhar com o Github?
 Sim, existe o Github versão Desktop.
