@@ -7,4 +7,4 @@ Assim ele criou a sua própria versão de um sistema para controlar as alteraç�
 Atualmente a Microsoft é dona do Github e faz parte da estratégia da empresa para atrair programadores de código aberto
 
 3-Existe outra maneira, além do terminal, de trabalhar com o Github?
-Sim, existe o Github versão Desktop.  
+Sim, existe o Github versão Desktop.   
