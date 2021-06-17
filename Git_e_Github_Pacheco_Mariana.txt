@@ -1,0 +1,10 @@
+1- 
+O Git foi criado por Linus Torvalds porque vários desenvolvedores do kernel (núcleo) do Linux decidirem desistir de acessar ao sistema do BitKeeper, que é um software proprietário.[8] O acesso gratuito ao BitKeeper foi removido pelo detentor dos direitos autorais, Larry McVoy, depois de acusar Andrew Tridgell de usar de engenharia reversa nos protocolos do BitKeeper, alegando violação da licença do mesmo.
+
+Torvalds queria um sistema distribuído que ele pudesse utilizar de forma similar ao BitKeeper (BK), mas nenhum dos sistemas livres disponíveis atendia suas necessidades, particularmente com relação à performance. 
+
+2- 
+Em 2018, a Microsoft adquiriu o GitHub por U$ 7,5 bilhões em ações. O Github estava com dívidas e decidiu se colocar à venda.
+
+3- 
+Existe uma versão gráfica do Github, o Github Desktop.
