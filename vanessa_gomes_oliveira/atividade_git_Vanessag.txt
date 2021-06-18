@@ -1,0 +1,5 @@
+1 - O Git foi desenvolvido por Linus Torvalds, que estava insatisfeito com o BitKeeper(BK), porém nenhum dos sistemas de versionamento disponíveis atendia suas necessidades.
+
+2 - O GitHub foi adquirido em 2018  pela Microsoft.
+
+3 - É possível usar o site do GitHub ou aplicativo Desktop.
